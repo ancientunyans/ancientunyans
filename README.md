@@ -8,7 +8,7 @@ $${\space \color{#949494} You \space \color{#949494} can \space \color{#949494} 
 $${\space \color{#e0e0e0}Im \space \color{#e0e0e0}trying \space \color{#e0e0e0}my \space \color{#e0e0e0}best!}$$
 
 <div align = center>
-<img width="736" height="520" alt="image" src="https://github.com/user-attachments/assets/a023d724-88d0-4f8d-bd50-5b282db81374" />
+<img width="736" height="520" alt="image" src="https://github.com/user-attachments/assets/a023d724-88d0-4f8d-bd50-5b282db81374"/>
 
 
 
